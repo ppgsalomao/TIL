@@ -15,7 +15,7 @@ _1 TILs and counting..._
 
 ### Git
 
-- [Adding auto-complete on Bash](git/accessing-a-lost-commit.md)
+- [Adding auto-complete on Bash](git/bash-auto-complete.md)
 
 ## About
 
