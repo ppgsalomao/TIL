@@ -5,13 +5,18 @@
 A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies.
 
-_1 TILs and counting..._
+_2 TILs and counting..._
 
 ---
 
 ### Categories
 
+* [Android](android)
 * [GIT](git)
+
+### Android
+
+- [Working with Android KeyStore and RSA (API 18+)](android/rsa-key-store.md)
 
 ### Git
 
