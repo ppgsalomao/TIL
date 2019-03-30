@@ -5,7 +5,7 @@
 A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies.
 
-_3 TILs and counting..._
+_5 TILs and counting..._
 
 ---
 
@@ -13,6 +13,7 @@ _3 TILs and counting..._
 
 * [Android](android)
 * [GIT](git)
+* [Windows](windows)
 
 ### Android
 
@@ -22,6 +23,10 @@ _3 TILs and counting..._
 ### Git
 
 - [Adding auto-complete on Bash](git/bash-auto-complete.md)
+
+### Windows
+
+- [Package Manager for Windows](windows/package-manager.md)
 
 ## About
 
@@ -37,7 +42,7 @@ I shamelessly stole this idea from
 
 ## License
 
-&copy; 2017-2017 Pedro Salomão
+&copy; 2017-2019 Pedro Salomão
 
 This repository is licensed under the MIT license. See `LICENSE` for
 details.
