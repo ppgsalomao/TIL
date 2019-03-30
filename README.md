@@ -23,6 +23,7 @@ _5 TILs and counting..._
 ### Git
 
 - [Adding auto-complete on Bash](git/bash-auto-complete.md)
+- [Configuring GIT on Windows with SSH](git/git-windows-ssh.md)
 
 ### Windows
 
