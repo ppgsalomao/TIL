@@ -5,7 +5,7 @@
 A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies.
 
-_6 TILs and counting..._
+_8 TILs and counting..._
 
 ---
 
@@ -13,6 +13,7 @@ _6 TILs and counting..._
 
 * [Android](android)
 * [GIT](git)
+* [Python](python)
 * [Windows](windows)
 
 ### Android
@@ -25,6 +26,11 @@ _6 TILs and counting..._
 - [Adding auto-complete on Bash](git/bash-auto-complete.md)
 - [Configuring GIT on Windows with SSH](git/git-windows-ssh.md)
 - [GIT Shortcuts](git/git-shortcuts.md)
+
+### Python
+
+- [Django CLI](python/django-commands.md)
+- [Virtual Environments](python/virtual-environments.md)
 
 ### Windows
 
