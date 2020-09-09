@@ -10,3 +10,6 @@ App creation:
 
 Start development server:
 `python manage.py runserver [port]`
+
+Create Super User:
+`python manage.py createsuperuser`

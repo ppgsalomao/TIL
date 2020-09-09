@@ -21,6 +21,10 @@ _8 TILs and counting..._
 - [Testing with two emulators on CircleCI](android/circle-ci-two-emulators.md)
 - [Working with Android KeyStore and RSA (API 18+)](android/rsa-key-store.md)
 
+### Database
+
+- [PostgreSQL User creation](database/postgres-user-creation.md)
+
 ### Git
 
 - [Adding auto-complete on Bash](git/bash-auto-complete.md)
